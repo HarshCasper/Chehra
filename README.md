@@ -1,6 +1,14 @@
 # Chehra 
 
-Chehra is a Face Recognition Web Application built using React at the Front-End, Node.js and Express at the Backend with PostgreSQL serving as the Database to store Usernames, E-Mail and their passwords using Hashing algorithm. It utilizes a ClarifAI Machine Learning Application Programming Interface (API) to detect Faces passed to it using Uniform Resource Locator (URL) Links. 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+
+👦👧 Chehra is a Face Recognition Web Application built using React at the Front-End, Node.js and Express at the Backend with PostgreSQL serving as the Database to store Usernames, E-Mail and their passwords using Hashing algorithm ❤️. It utilizes a ClarifAI Machine Learning Application Programming Interface (API) to detect Faces passed to it using Uniform Resource Locator (URL) Links. 
 
 ## Technology Stack 
 
@@ -16,4 +24,12 @@ Chehra is a Face Recognition Web Application built using React at the Front-End,
 
 ## Demonstration 
 
-The Web Application has been hosted on Heroku. [Take a Look!](https://harshcasper206.herokuapp.com/)
+Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. The Application has been likewise deployed [here](https://harshcasper206.herokuapp.com/). 
+
+## LICENSE 
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/HarshCasper/Chehra/blob/master/LICENSE) file for details.
+
+
+
+
